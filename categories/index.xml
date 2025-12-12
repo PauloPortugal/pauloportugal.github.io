@@ -22,19 +22,5 @@
       <guid>https://pauloportugal.github.io/categories/linux/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Blogging</title>
-      <link>https://pauloportugal.github.io/categories/blogging/</link>
-      <pubDate>Thu, 08 Aug 2019 11:33:00 +0800</pubDate>
-      <guid>https://pauloportugal.github.io/categories/blogging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Demo</title>
-      <link>https://pauloportugal.github.io/categories/demo/</link>
-      <pubDate>Thu, 08 Aug 2019 11:33:00 +0800</pubDate>
-      <guid>https://pauloportugal.github.io/categories/demo/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
