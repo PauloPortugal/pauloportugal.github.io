@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pauloportugal.github.io/</loc>
-    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
@@ -15,14 +15,17 @@
                 href="https://pauloportugal.github.io/"
                 />
   </url><url>
-    <loc>https://pauloportugal.github.io/about/</loc>
-    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <loc>https://pauloportugal.github.io/tags/ansible/</loc>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
   </url><url>
-    <loc>https://pauloportugal.github.io/categories/blogging/</loc>
-    <lastmod>2019-08-08T11:33:00+08:00</lastmod>
+    <loc>https://pauloportugal.github.io/post/2025-12-12-automating-manjaro-setup-with-ansible/</loc>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/tags/automation/</loc>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
   </url><url>
     <loc>https://pauloportugal.github.io/categories/</loc>
-    <lastmod>2019-08-08T11:33:00+08:00</lastmod>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
@@ -34,14 +37,29 @@
                 href="https://pauloportugal.github.io/categories/"
                 />
   </url><url>
-    <loc>https://pauloportugal.github.io/categories/demo/</loc>
-    <lastmod>2019-08-08T11:33:00+08:00</lastmod>
+    <loc>https://pauloportugal.github.io/tags/devops/</loc>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/categories/devops/</loc>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/tags/infrastructure-as-code/</loc>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/categories/linux/</loc>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/tags/linux/</loc>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/tags/manjaro/</loc>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
   </url><url>
     <loc>https://pauloportugal.github.io/post/</loc>
-    <lastmod>2019-08-08T11:33:00+08:00</lastmod>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
   </url><url>
     <loc>https://pauloportugal.github.io/tags/</loc>
-    <lastmod>2019-08-08T11:33:00+08:00</lastmod>
+    <lastmod>2025-12-12T00:44:55+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
@@ -52,6 +70,15 @@
                 hreflang="en"
                 href="https://pauloportugal.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://pauloportugal.github.io/about/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/categories/blogging/</loc>
+    <lastmod>2019-08-08T11:33:00+08:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/categories/demo/</loc>
+    <lastmod>2019-08-08T11:33:00+08:00</lastmod>
   </url><url>
     <loc>https://pauloportugal.github.io/post/2019-08-08-text-and-typography/</loc>
     <lastmod>2019-08-08T11:33:00+08:00</lastmod>
