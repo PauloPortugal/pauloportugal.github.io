@@ -41,7 +41,7 @@
   <meta itemprop="description" content="Learn how to use the /init command and CLAUDE.md files to give Claude Code project context and improve code generation quality">
   <meta itemprop="datePublished" content="2025-12-12T10:00:00+00:00">
   <meta itemprop="dateModified" content="2025-12-12T10:00:00+00:00">
-  <meta itemprop="wordCount" content="537">
+  <meta itemprop="wordCount" content="542">
   <meta itemprop="keywords" content="Claude-Code,Ai,Developer-Tools">
 
   <title>
@@ -572,9 +572,9 @@
   class="readtime"
   data-bs-toggle="tooltip"
   data-bs-placement="bottom"
-  title="745 words"
+  title="1068 words"
 >
-  <em>4 min</em> read</span>
+  <em>5 min</em> read</span>
 
           </div>
         </div>
@@ -725,25 +725,43 @@ your project.</p>
     <span class="me-2">Memory Types Explained</span>
     <a href="#memory-types-explained" class="anchor text-muted"><i class="fas fa-hashtag"></i></a>
   
-</h3><p><strong>Project Memory</strong> (<code>CLAUDE.md</code>):</p>
-<ul>
-<li>Tracked by version control</li>
-<li>Shared with all developers on the project</li>
-<li>Contains project-specific guidance (folder structure, naming conventions, frameworks)</li>
-</ul>
-<p><strong>Local Project Memory</strong> (<code>CLAUDE.local.md</code>):</p>
-<ul>
-<li>Personal preferences for this project only</li>
-<li>Not pushed to repository</li>
-<li>Your own tooling and workflow preferences</li>
-<li><em>Note: Being deprecated in favor of importing untracked files</em></li>
-</ul>
-<p><strong>Global Memory</strong> (<code>~/.config/claude/CLAUDE.md</code>):</p>
-<ul>
-<li>Personal guidance across ALL projects</li>
-<li>Your coding style preferences</li>
-<li>Tools you use globally</li>
-</ul>
+</h3><div class="table-wrapper">
+  <table>
+    <thead>
+        <tr>
+            <th>Memory Type</th>
+            <th>File Path</th>
+            <th>Scope</th>
+            <th>Version Control</th>
+            <th>Use Case</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Project</strong></td>
+            <td><code>CLAUDE.md</code> or <code>./.claude/CLAUDE.md</code></td>
+            <td>Project-wide</td>
+            <td>✓ Tracked &amp; shared</td>
+            <td>Project-specific guidance: folder structure, naming conventions, frameworks</td>
+        </tr>
+        <tr>
+            <td><strong>Local Project</strong></td>
+            <td><code>CLAUDE.local.md</code></td>
+            <td>Project-specific</td>
+            <td>✗ Not tracked</td>
+            <td>Personal preferences for this project: your tooling, workflow preferences</td>
+        </tr>
+        <tr>
+            <td><strong>Global User</strong></td>
+            <td><code>~/.claude/CLAUDE.md</code></td>
+            <td>All projects</td>
+            <td>✗ Not tracked</td>
+            <td>Personal guidance across all projects: coding style, global tools</td>
+        </tr>
+    </tbody>
+  </table>
+</div>
+<p>Visit <a href="https://code.claude.com/docs/en/memory#determine-memory-type">Claude Code Memory Types</a> for a comprehensive list of all supported memory types.</p>
 <h2 id="accessing-memory-files" id=accessing-memory-files>
   
     <span class="me-2">Accessing Memory Files</span>
@@ -877,6 +895,10 @@ your project.</p>
   
   
 
+  
+  
+  
+
 
 
 
@@ -885,6 +907,13 @@ your project.</p>
   <section id="access-lastmod">
     <h2 class="panel-heading">Recently Updated</h2>
     <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
+          <a href="/post/2025-12-14-claude-code-tools-permissions/">Claude Code - Tools and Permissions</a>
+        </li>
       
         
         
@@ -1139,6 +1168,43 @@ your project.</p>
   
 
   
+
+  
+
+  
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+
+  
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+  
+    
+    
+  
+
+  
     
   
 
@@ -1191,10 +1257,18 @@ your project.</p>
     
     
   
+    
+    
+    
+  
 
 
 
 
+
+  
+  
+  
 
   
   
@@ -1253,6 +1327,29 @@ your project.</p>
               <h4 class="pt-0 my-2">Claude Code - Managing Context for Better Results</h4>
               <div class="text-muted">
                 <p>Learn how to provide context to Claude Code using files, images, and code selections, and manage context bloat for optimal AI performance</p>
+              </div>
+            </div>
+          </a>
+        </article>
+      
+        <article class="col">
+          <a href="/post/2025-12-14-claude-code-tools-permissions/" class="post-preview card h-100">
+            <div class="card-body">
+              
+
+
+
+<time
+  
+  data-ts="1765706400"
+  data-df="ll"
+  
+>
+  %b %e, %Y
+</time>
+              <h4 class="pt-0 my-2">Claude Code - Tools and Permissions</h4>
+              <div class="text-muted">
+                <p>Understanding Claude Code&#39;s built-in tools and how to manage permissions for automated workflows</p>
               </div>
             </div>
           </a>

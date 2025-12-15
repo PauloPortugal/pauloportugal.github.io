@@ -6,8 +6,15 @@
     <description>Recent content in Claude-Code on Paulo Monteiro</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Dec 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://pauloportugal.github.io/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Code - Tools and Permissions</title>
+      <link>https://pauloportugal.github.io/post/2025-12-14-claude-code-tools-permissions/</link>
+      <pubDate>Sun, 14 Dec 2025 10:00:00 +0000</pubDate>
+      <guid>https://pauloportugal.github.io/post/2025-12-14-claude-code-tools-permissions/</guid>
+      <description>&lt;p&gt;In the &lt;a href=&#34;https://pauloportugal.github.io/post/2025-12-16-claude-code-context-management/&#34;&gt;previous chapter&lt;/a&gt;, we learned how to manage context effectively by adding files, images, and using commands like &lt;code&gt;/clear&lt;/code&gt; and &lt;code&gt;/compact&lt;/code&gt;. Now let&amp;rsquo;s explore the built-in tools Claude Code uses to perform actions and how to manage permissions for those tools.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-claude-code-uses-tools&#34; id=how-claude-code-uses-tools&gt;&#xA;  &#xA;    &lt;span class=&#34;me-2&#34;&gt;How Claude Code Uses Tools&lt;/span&gt;&#xA;    &lt;a href=&#34;#how-claude-code-uses-tools&#34; class=&#34;anchor text-muted&#34;&gt;&lt;i class=&#34;fas fa-hashtag&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;  &#xA;&lt;/h2&gt;&lt;p&gt;When you ask Claude Code to do something, it automatically selects the appropriate built-in tool:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Read&lt;/strong&gt; - View file contents&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Edit&lt;/strong&gt; - Modify existing files&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Write&lt;/strong&gt; - Create new files&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bash&lt;/strong&gt; - Execute shell commands&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Glob&lt;/strong&gt; - Find files by pattern&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Grep&lt;/strong&gt; - Search file contents&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Task&lt;/strong&gt; - Launch specialized agents&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;TodoWrite&lt;/strong&gt; - Create task checklists&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;You don&amp;rsquo;t need to specify which tool to use—Claude Code determines this based on your instructions.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code - Managing Context for Better Results</title>
       <link>https://pauloportugal.github.io/post/2025-12-12-claude-code-3-context-management/</link>
