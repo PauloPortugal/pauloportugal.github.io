@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software-Engineering on Paulo Monteiro</title>
+    <link>http://localhost:1313/tags/software-engineering/</link>
+    <description>Recent content in Software-Engineering on Paulo Monteiro</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clean Code</title>
+      <link>http://localhost:1313/books/2024/clean-code/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/2024/clean-code/</guid>
+      <description>&lt;p&gt;Uncle Bob&amp;rsquo;s principles on writing readable code are essential. While some examples feel dated, the core concepts about naming, functions, and code organization remain invaluable. A must-read for anyone serious about their craft.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Pragmatic Programmer</title>
+      <link>http://localhost:1313/books/2024/pragmatic-programmer/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/2024/pragmatic-programmer/</guid>
+      <description>&lt;p&gt;A timeless classic that changed how I think about software craftsmanship. The advice on writing flexible, maintainable code is as relevant today as when it was first published. Every developer should read this at least once.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

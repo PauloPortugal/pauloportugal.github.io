@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematics on Paulo Monteiro</title>
+    <link>http://localhost:1313/tags/mathematics/</link>
+    <description>Recent content in Mathematics on Paulo Monteiro</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art of Computer Programming, Vol. 1</title>
+      <link>http://localhost:1313/books/2023/art-of-computer-programming/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/2023/art-of-computer-programming/</guid>
+      <description>&lt;p&gt;Knuth&amp;rsquo;s masterpiece is as much mathematics as computer science. Challenging and rewarding in equal measure. Not a casual read, but the depth of analysis and algorithmic thinking is unmatched. A lifetime reference.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Object-Oriented on Paulo Monteiro</title>
+    <link>http://localhost:1313/tags/object-oriented/</link>
+    <description>Recent content in Object-Oriented on Paulo Monteiro</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/object-oriented/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Patterns: Elements of Reusable Object-Oriented Software</title>
+      <link>http://localhost:1313/books/2023/design-patterns/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/2023/design-patterns/</guid>
+      <description>&lt;p&gt;The Gang of Four&amp;rsquo;s seminal work on design patterns. Dense and sometimes academic, but essential for understanding the vocabulary of software design. Best approached with real-world experience to appreciate the solutions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
