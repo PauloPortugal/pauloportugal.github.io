@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pauloportugal.github.io/</loc>
-    <lastmod>2025-12-17T10:00:00+00:00</lastmod>
+    <lastmod>2026-01-28T01:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://pauloportugal.github.io/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/post/</loc>
+    <lastmod>2026-01-28T01:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/post/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/post/2026-01-28-presidenciais-2026-reflexao-valores-principios/</loc>
+    <lastmod>2026-01-28T01:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/post/2026-01-28-presidenciais-2026-reflexao-valores-principios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/post/2026-01-28-presidenciais-2026-reflexao-valores-principios/"
                 />
   </url><url>
     <loc>https://pauloportugal.github.io/tags/ai/</loc>
@@ -48,19 +74,6 @@
   </url><url>
     <loc>https://pauloportugal.github.io/categories/development/</loc>
     <lastmod>2025-12-17T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pauloportugal.github.io/post/</loc>
-    <lastmod>2025-12-17T10:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="https://pauloportugal.github.io/pt-pt/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pauloportugal.github.io/post/"
-                />
   </url><url>
     <loc>https://pauloportugal.github.io/tags/</loc>
     <lastmod>2025-12-17T10:00:00+00:00</lastmod>
