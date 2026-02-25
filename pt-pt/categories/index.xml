@@ -6,8 +6,15 @@
     <description>Recent content in Categorias on Paulo Monteiro</description>
     <generator>Hugo</generator>
     <language>pt-PT</language>
-    <lastBuildDate>Wed, 28 Jan 2026 01:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pauloportugal.github.io/pt-pt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>https://pauloportugal.github.io/pt-pt/categories/books/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloportugal.github.io/pt-pt/categories/books/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Política</title>
       <link>https://pauloportugal.github.io/pt-pt/categories/pol%C3%ADtica/</link>
@@ -20,13 +27,6 @@
       <link>https://pauloportugal.github.io/pt-pt/categories/sociedade/</link>
       <pubDate>Wed, 28 Jan 2026 01:30:00 +0000</pubDate>
       <guid>https://pauloportugal.github.io/pt-pt/categories/sociedade/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Books</title>
-      <link>https://pauloportugal.github.io/pt-pt/categories/books/</link>
-      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://pauloportugal.github.io/pt-pt/categories/books/</guid>
       <description></description>
     </item>
   </channel>
