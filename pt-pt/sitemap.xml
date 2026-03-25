@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pauloportugal.github.io/pt-pt/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +15,11 @@
                 href="https://pauloportugal.github.io/pt-pt/"
                 />
   </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/tags/%C3%A1frica/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pauloportugal.github.io/pt-pt/categories/books/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +32,7 @@
                 />
   </url><url>
     <loc>https://pauloportugal.github.io/pt-pt/categories/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,14 +44,11 @@
                 href="https://pauloportugal.github.io/pt-pt/categories/"
                 />
   </url><url>
-    <loc>https://pauloportugal.github.io/pt-pt/tags/ci%C3%AAncia/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pauloportugal.github.io/pt-pt/tags/espa%C3%A7o/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+    <loc>https://pauloportugal.github.io/pt-pt/tags/colonialismo/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pauloportugal.github.io/pt-pt/tags/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,8 +60,14 @@
                 href="https://pauloportugal.github.io/pt-pt/tags/"
                 />
   </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/tags/fic%C3%A7%C3%A3o/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/tags/l%C3%ADngua-portuguesa/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pauloportugal.github.io/pt-pt/books/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -72,6 +78,28 @@
                 hreflang="pt-PT"
                 href="https://pauloportugal.github.io/pt-pt/books/"
                 />
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/tags/mo%C3%A7ambique/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/books/2026/vinte-e-zinco/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/books/2026/vinte-e-zinco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/books/2026/vinte-e-zinco/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/tags/ci%C3%AAncia/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/tags/espa%C3%A7o/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pauloportugal.github.io/pt-pt/tags/n%C3%A3o-fic%C3%A7%C3%A3o/</loc>
     <lastmod>2026-02-23T00:00:00+00:00</lastmod>
@@ -169,9 +197,6 @@
                 />
   </url><url>
     <loc>https://pauloportugal.github.io/pt-pt/tags/distopia/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pauloportugal.github.io/pt-pt/tags/fic%C3%A7%C3%A3o/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pauloportugal.github.io/pt-pt/tags/liter%C3%A1rio/</loc>

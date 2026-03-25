@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pauloportugal.github.io/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
@@ -13,6 +13,86 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://pauloportugal.github.io/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/tags/africa/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/books/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/books/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/categories/books/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/categories/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/categories/books/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/categories/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/tags/colonialism/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/tags/fiction/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/tags/mozambique/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/tags/portuguese-language/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pauloportugal.github.io/tags/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/books/2026/vinte-e-zinco/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/books/2026/vinte-e-zinco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/books/2026/vinte-e-zinco/"
                 />
   </url><url>
     <loc>https://pauloportugal.github.io/books/2026/a-city-on-mars/</loc>
@@ -28,45 +108,6 @@
                 href="https://pauloportugal.github.io/books/2026/a-city-on-mars/"
                 />
   </url><url>
-    <loc>https://pauloportugal.github.io/books/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="https://pauloportugal.github.io/pt-pt/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pauloportugal.github.io/books/"
-                />
-  </url><url>
-    <loc>https://pauloportugal.github.io/categories/books/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="https://pauloportugal.github.io/pt-pt/categories/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pauloportugal.github.io/categories/books/"
-                />
-  </url><url>
-    <loc>https://pauloportugal.github.io/categories/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="https://pauloportugal.github.io/pt-pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pauloportugal.github.io/categories/"
-                />
-  </url><url>
     <loc>https://pauloportugal.github.io/tags/non-fiction/</loc>
     <lastmod>2026-02-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -78,19 +119,6 @@
   </url><url>
     <loc>https://pauloportugal.github.io/tags/space/</loc>
     <lastmod>2026-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pauloportugal.github.io/tags/</loc>
-    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="https://pauloportugal.github.io/pt-pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pauloportugal.github.io/tags/"
-                />
   </url><url>
     <loc>https://pauloportugal.github.io/tags/technology/</loc>
     <lastmod>2026-02-23T00:00:00+00:00</lastmod>
@@ -201,9 +229,6 @@
                 />
   </url><url>
     <loc>https://pauloportugal.github.io/tags/dystopia/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pauloportugal.github.io/tags/fiction/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pauloportugal.github.io/tags/literary/</loc>
