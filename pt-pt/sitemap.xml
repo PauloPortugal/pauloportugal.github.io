@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pauloportugal.github.io/pt-pt/</loc>
-    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,100 @@
                 hreflang="pt-PT"
                 href="https://pauloportugal.github.io/pt-pt/"
                 />
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/categories/albums/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/categories/albums/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/categories/albums/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/albums/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/albums/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/albums/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/categories/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/categories/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/tags/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/tags/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/tags/gnr/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/tags/gnr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/tags/gnr/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/tags/rock/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/tags/rock/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/tags/rock/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/albums/2026/gnr-rock-in-rio-douro/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pauloportugal.github.io/albums/2026/gnr-rock-in-rio-douro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://pauloportugal.github.io/pt-pt/albums/2026/gnr-rock-in-rio-douro/"
+                />
+  </url><url>
+    <loc>https://pauloportugal.github.io/pt-pt/tags/rock-portugu%C3%AAs/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pauloportugal.github.io/pt-pt/tags/%C3%A1frica/</loc>
     <lastmod>2026-02-25T00:00:00+00:00</lastmod>
@@ -31,34 +125,8 @@
                 href="https://pauloportugal.github.io/pt-pt/categories/books/"
                 />
   </url><url>
-    <loc>https://pauloportugal.github.io/pt-pt/categories/</loc>
-    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pauloportugal.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="https://pauloportugal.github.io/pt-pt/categories/"
-                />
-  </url><url>
     <loc>https://pauloportugal.github.io/pt-pt/tags/colonialismo/</loc>
     <lastmod>2026-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pauloportugal.github.io/pt-pt/tags/</loc>
-    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pauloportugal.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="https://pauloportugal.github.io/pt-pt/tags/"
-                />
   </url><url>
     <loc>https://pauloportugal.github.io/pt-pt/tags/fic%C3%A7%C3%A3o/</loc>
     <lastmod>2026-02-25T00:00:00+00:00</lastmod>
